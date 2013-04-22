@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: PhotoGallery
+author: Shannon Hicks
+license: Apache License, Version 2.0
+copyright: Copyright (c) 2013 by Apperson Labs
+
+# these should not be edited
+name: photogallery
+moduleid: com.appersonlabs.photogallery
+guid: 177a2c94-a776-479a-8643-37c1f89e3484
+platform: commonjs
+minsdk: 2.1.4.GA
